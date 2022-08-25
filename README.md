@@ -90,8 +90,8 @@
 
 ---
 <div align="center">
-	<h4 style="text-align: center;">Socials</h4>
-    <a href="#"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"></a>
+    <h4 style="text-align: center;">Socials</h4>
+    <a href="https://codepen.io/Sepshun"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black"></a>
+    <a href="https://codesandbox.io/u/Sepshun"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"></a>
     <img src="https://img.shields.io/badge/Jessica_Skye%238345-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
 </div>
