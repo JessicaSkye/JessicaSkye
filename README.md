@@ -2,7 +2,7 @@
 	<h1>👋🏻 Hi, I'm Jessica Skye 🌸</h1>
 	<h4>Thanks for stopping by!</h4>
 	<h1 style="margin: 0; user-select: none;">
-		<a href="mailto:contact@jessicaskye.io"><img src="https://img.shields.io/badge/contact@jessicaskye.io-F45586?style=for-the-badge&logo=gmail&logoColor=white"></a>
+		<a href="mailto:sepshuncontact@gmail.com"><img src="https://img.shields.io/badge/sepshuncontact@gmail.com-F45586?style=for-the-badge&logo=gmail&logoColor=white"></a>
 		<a href="https://paypal.me/sepshun"><img src="https://img.shields.io/badge/Support_Me-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 		<a href="https://ko-fi.com/jessicaskye"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 	</h1>
